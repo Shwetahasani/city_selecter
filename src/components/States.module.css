@@ -1,0 +1,18 @@
+/* States.module.css */
+.selectContainer {
+  margin-bottom: 10px;
+}
+
+.select {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  width: 100%;
+  transition: border-color 0.3s;
+}
+
+.select:hover {
+  border-color: #555;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}

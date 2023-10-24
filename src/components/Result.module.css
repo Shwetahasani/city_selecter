@@ -1,0 +1,14 @@
+/* Result.module.css */
+.resultContainer {
+  font-size: 20px;
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  transition: background-color 0.3s;
+}
+
+.resultContainer:hover {
+  background-color: #e0e0e0;
+}
